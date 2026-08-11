@@ -3,10 +3,9 @@
 
 **Jason M. Dwyer, PhD**
 
-*Draft v0.3 (restyled). Citations shown as (Author, Year) pending the
-bibliography pass; every citation to be human-verified before submission.
 [FIG]/[TAB] mark figure and table slots.*
 
+**First draft by LLM to flesh a basic structure and arc, slightly edited abstract**
 ---
 
 ### Abstract
