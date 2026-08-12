@@ -1,3 +1,4 @@
+*First draft by LLM to flesh a basic structure and arc, slightly edited abstract*
 # Does a Language Model Prefer Any of Its Internal States?
 ## A behavioral-pharmacology framework, a validated reward-axis perturbation, and pre-registered nulls across four measurement channels
 
@@ -5,7 +6,6 @@
 
 [FIG]/[TAB] mark figure and table slots.*
 
-**First draft by LLM to flesh a basic structure and arc, slightly edited abstract**
 ---
 
 ### Abstract
